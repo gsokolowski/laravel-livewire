@@ -1,2 +1,2 @@
-## Laravel 12 and Livewire
+## Laravel 12 and Livewire 3.6
 
