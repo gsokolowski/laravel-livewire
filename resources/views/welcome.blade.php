@@ -10,6 +10,8 @@
 <body class="min-h-screen flex items-center justify-center">
     <div class="container mx-auto text-center">
         <livewire:counter />
+        <livewire:user-profile />
+        <livewire:calculator />
     </div>
     
     @livewireScripts
